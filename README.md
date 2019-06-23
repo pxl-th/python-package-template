@@ -4,6 +4,11 @@ Contains minimal python package structure.
 
 # Table of contents
 
+- [How to install](#how-to-install)
+- [Run tests](#run-tests)
+- [Build documentation](#build-documentation)
+- [Update version tag](#update-version-tag)
+
 # How to install
 
 To install package, execute
