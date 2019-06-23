@@ -5,7 +5,6 @@ from setuptools import (
 
 VERSION = "0.0.1"
 
-
 setup(
     name="template",
     version=VERSION,
