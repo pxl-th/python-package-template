@@ -14,13 +14,13 @@ Contains minimal python package structure.
 To install package, execute
 
 ```bash
-python setup.py install .
+pip install .
 ```
 
 or install a project in editable mode
 
 ```bash
-python setup.py install -e .[dev]
+pip install -e .[dev]
 ```
 
 # Run tests
